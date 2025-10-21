@@ -36,11 +36,14 @@ JavaScript – Threat detection logic
 Tools Used:
 
 phishing.org (sample email) phishing-examples
+
 MXToolbox Header Analyzer (simulated) image
+
 GitHub for documentation
 📸 Screenshots
 Phishing Email , With no Major threat by Developed Tool.
 image
+
 -Phishing Email , With threat Detected by Developed tool. image
 
 🧪 How It Works
