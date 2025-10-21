@@ -16,10 +16,15 @@
 🚀 Features
 
 ✅ Paste any email body directly into the tool
+
 ✅ Line-by-line threat analysis
+
 ✅ Detects common phishing techniques
+
 ✅ Explains what the threat is and why it’s dangerous
+
 ✅ Cybersecurity-themed UI (green-on-black matrix style)
+
 ✅ 100% client-side (no backend, no data storage)
 
 🛠️ Built With
