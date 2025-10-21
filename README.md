@@ -38,16 +38,22 @@ image
 🧪 How It Works
 
 1.Paste any suspicious email content into the text area.
+
 2.Click the "Detect Phishing" button.
+
 3.The tool scans each line and detects:
+
 🚨 Urgent Language (e.g., “Verify your account now”)
 🔗 Suspicious Links (non-trusted domains)
 📧 Generic Greetings (“Dear Customer”)
 🧨 Spoofed Domains (e.g., "Amaz0n" instead of "Amazon")
+
 4.The output includes:
+
 Line number
 The flagged line text
 The type of threat
 Why it's dangerous
+
 Outcome:
-Gained awareness of phishing tactics and how to critically analyze suspicious emails.
+ Awareness of phishing tactics and email threat analysis.
