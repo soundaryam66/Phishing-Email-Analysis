@@ -1,5 +1,7 @@
 ## Task 2
+
 🛡️ Phishing Email Detector - Cybersecurity Tool
+
 ⚙️ Overview
  Awareness of Phishing Tactics and emails Threat Analysis Skills
  Interactive web-based phishing email detector designed to help users identify common phishing tactics in suspicious emails. The tool analyzes email content line by line and detects:
@@ -12,6 +14,7 @@
 
 
 🚀 Features
+
 ✅ Paste any email body directly into the tool
 ✅ Line-by-line threat analysis
 ✅ Detects common phishing techniques
@@ -56,4 +59,5 @@ The type of threat
 Why it's dangerous
 
 Outcome:
- Awareness of phishing tactics and email threat analysis.
+
+Awareness of phishing tactics and email threat analysis.
